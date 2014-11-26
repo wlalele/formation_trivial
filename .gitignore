@@ -1,0 +1,6 @@
+scala/.idea/
+scala/scala.iml
+scala/out/
+*.class
+vendor/
+.idea/
